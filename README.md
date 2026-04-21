@@ -146,14 +146,6 @@ http://127.0.0.1:8000/admin/
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome. Feel free to fork the project and submit pull requests.
-
----
-
----
-
 ## 👨‍💻 Author
 
 Developed by **Seyedali Mousavi**
