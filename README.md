@@ -1,7 +1,7 @@
 # Cinematwo 🎬
 
 Cinematwo is a Django-based web application for managing and exploring cinema-related content.  
-This project appears to be an early-stage Django website structured with reusable apps and ready for further development.
+This project is an early-stage Django website structured with reusable apps and ready for further development.
 
 ---
 
