@@ -1,4 +1,3 @@
-````markdown
 # Cinematwo 🎬
 
 Cinematwo is a Django-based web application for managing and exploring cinema-related content.  
